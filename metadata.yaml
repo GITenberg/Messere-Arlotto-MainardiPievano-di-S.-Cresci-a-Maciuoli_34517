@@ -1,0 +1,29 @@
+_repo: Messere-Arlotto-MainardiPievano-di-S.-Cresci-a-Maciuoli_34517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guerrazzi, Francesco Domenico
+    alias: Guerrazzi, F. D. (Francesco Domenico)
+    birthdate: 1804
+    deathdate: 1873
+    gutenberg_agent_id: '7633'
+    url: http://www.gutenberg.org/2009/agents/7633
+    wikipedia: http://en.wikipedia.org/wiki/Francesco_Domenico_Guerrazzi
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2010-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34517'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Messere Arlotto Mainardi, Pievano di S. Cresci a Maciuoli
+url: http://www.gutenberg.org/ebooks/34517
